@@ -10,3 +10,5 @@ Labort kellett szimulalni, fel lehet venni betegeket adatokkal (new, lakcim, 9 s
 -Reggeli start funkcio (fork()-ok segitsegevel kulon processzben)
   - mentoautok indulnak a betegekert
   - mintat vesznek majd kitorlik a felvett listabol
+
+1 db C fileban kell megcsinalni
